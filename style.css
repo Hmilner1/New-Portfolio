@@ -13,6 +13,10 @@ html{
     scroll-behavior: smooth;
 }
 
+.icons{
+    padding-right: 50px;
+}
+
 section{
     display: grid;
     place-items: center;
