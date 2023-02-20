@@ -212,4 +212,7 @@ body::-webkit-scrollbar-thumb{
 img {
     border-radius: 50%;
     margin-top: 50px;
-  }
+}
+em{
+    font-size: 17px;
+}
