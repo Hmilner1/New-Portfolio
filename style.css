@@ -59,7 +59,7 @@ header{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 30px 10%;
+    padding: 30px 9%;
     background-color:  #202024;;
 }
 
@@ -215,4 +215,19 @@ img {
 }
 em{
     font-size: 17px;
+}
+
+video{
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+youtubeIframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
